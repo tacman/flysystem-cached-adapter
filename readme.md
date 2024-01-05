@@ -9,12 +9,11 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/league/flysystem-cached-adapter.svg?style=flat-square)](https://packagist.org/packages/league/flysystem-cached-adapter)
 
 
-The adapter decorator caches metadata and directory listings.
+The adapter decorator caches metadata and directory listings.  It is only available in version 1 of flysystem.
 
 ```bash
 composer require league/flysystem-cached-adapter
 ```
 
 ## Usage
-
-[Check out the docs.](https://flysystem.thephpleague.com/docs/advanced/caching/)
+[Check out the docs.](https://flysystem.thephpleague.com/v1/docs/advanced/caching/#article)
